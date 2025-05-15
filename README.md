@@ -1,2 +1,35 @@
-# img2svg_rmbg
+# Image to SVG Converter
+
 这是一个使用 Next.js 构建的图片转换小工具，能够实现1.img转svg;2.图片背景移除;3.图片转九宫格。
+
+## 功能
+
+- 将上传的图片转换为 SVG（ImageTracer.js）
+- 图片背景移除（@imgly/background-removal）
+- 九宫格生成器：将图片分割为九宫格样式（fabric.js）
+
+
+## 技术栈
+
+- **框架**: Next.js
+- **UI 库**: React
+- **语言**: TypeScript
+- **样式**: Tailwind CSS, Shadcn UI
+- **矢量化库**: ImageTracer.js (客户端)
+
+## 安装和使用
+
+1.  克隆仓库：
+    ```bash
+    git clone <仓库地址>
+    cd vectorizer
+    ```
+2.  安装依赖 (使用 pnpm):
+    ```bash
+    pnpm install
+    ```
+3.  运行开发服务器：
+    ```bash
+    pnpm dev
+    ```
+    应用将在 `http://localhost:3000` 启动。
