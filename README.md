@@ -1,6 +1,9 @@
 # Image to SVG Converter
 
 这是一个使用 Next.js 构建的图片转换小工具，能够实现1.img转svg;2.图片背景移除;3.图片转九宫格。
+![image](https://github.com/user-attachments/assets/ed9061b6-326b-44bb-9ebc-0ce966f7567f)
+
+[1]:https://img2svg-rmbg.vercel.app/
 
 ## 功能
 
