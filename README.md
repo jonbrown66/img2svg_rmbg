@@ -23,7 +23,7 @@
 
 1.  克隆仓库：
     ```bash
-    git clone https://github.com/jonbrown66/img2svg_rmbg
+    git clone https://github.com/jonbrown66/img2svg_rmbg.git
     cd img2svg-rmbg
     ```
 2.  安装依赖 (使用 pnpm):
