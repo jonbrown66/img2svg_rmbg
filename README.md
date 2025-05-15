@@ -18,14 +18,13 @@
 - **UI 库**: React
 - **语言**: TypeScript
 - **样式**: Tailwind CSS, Shadcn UI
-- **矢量化库**: ImageTracer.js (客户端)
 
 ## 安装和使用
 
 1.  克隆仓库：
     ```bash
-    git clone <仓库地址>
-    cd vectorizer
+    git clone https://github.com/jonbrown66/img2svg_rmbg
+    cd img2svg-rmbg
     ```
 2.  安装依赖 (使用 pnpm):
     ```bash
